@@ -57,4 +57,4 @@ We typically respond within 48 hours.
 
 ## Privacy Policy
 
-You can read our full Privacy Policy [here](../politica-privacidad/privacy_policy_en.md).
+You can read our full Privacy Policy [here](https://vainillaappsstudio-hub.github.io/food-passport-privacy-policy.github.io/).
